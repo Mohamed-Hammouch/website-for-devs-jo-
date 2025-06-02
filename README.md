@@ -96,8 +96,6 @@ jordan-dev-jobs/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
 Project Link: [https://github.com/yourusername/jordan-dev-jobs](https://github.com/yourusername/jordan-dev-jobs) 
+
+“© [Mohamed-Hammouch] — This project is for educational/portfolio purposes only. Do not copy or reuse without permission.”
